@@ -1,7 +1,0 @@
----
-title: "HelloWorld"
-author: "Ashwaq"
-date: "10/31/2021"
-output: pdf_document
----
-# Hello World 
